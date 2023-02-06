@@ -1,3 +1,4 @@
+import './App.css'
 import Population from '../components/Population'
 
 const App = () => {

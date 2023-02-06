@@ -1,5 +1,5 @@
 import './App.css'
-import Name from '../components/Name'
+import TotalArea from '../components/TotalArea'
 
 const App = () => {
 
@@ -7,4 +7,4 @@ const App = () => {
     <div></div>
   )
 }
-export default Name
+export default TotalArea

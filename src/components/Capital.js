@@ -1,3 +1,4 @@
+import './App.css'
 import Capital from '../components/Capital'
 
 const App = () => {
