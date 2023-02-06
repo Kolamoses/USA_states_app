@@ -1,7 +1,4 @@
-import './App.css'
-import Name from '../components/Name'
-
-const App = () => {
+const Name = () => {
 
   return (
     <div></div>

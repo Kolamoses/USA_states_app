@@ -1,10 +1,8 @@
-import './App.css'
-import Population from '../components/Population'
-
-const App = () => {
+const Population = () => {
 
   return (
     <div></div>
   )
+
 }
 export default Population

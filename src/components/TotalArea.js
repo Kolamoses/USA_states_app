@@ -1,7 +1,4 @@
-import './App.css'
-import TotalArea from '../components/TotalArea'
-
-const App = () => {
+const TotalArea = () => {
 
   return (
     <div></div>
