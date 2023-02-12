@@ -1,3 +1,3 @@
-# USA States App
+# US States 
 
 ## By: Kola Moses
