@@ -7,7 +7,8 @@ import TotalArea from '../components/TotalArea'
 const App = () => {
   return (
     <div>
-      
+      </Capital text= "here is the state capital">
+
     </div>
   );
 }

@@ -1,7 +1,9 @@
-const Capital = () => {
-
+const Capital = (props) => {
+console.log(props.text)
   return (
-    <div></div>
+    <div>
+      <h1>{props.text}</h1>
+    </div>
   )
 
 }
