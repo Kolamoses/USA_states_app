@@ -11,4 +11,9 @@ function NavBar() {
                 <div className="uslogo" >
                     <img src={us_flag} alt="logo" />
                 </div>
-                <div>
+              
+                
+     );
+}
+
+export default NavBar;
