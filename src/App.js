@@ -1,15 +1,13 @@
+import logo from './logo.svg';
 import './App.css';
-import Name from '../components/Name'
-import Capital from '../components/Capital'
-import Population from '../components/Population'
-import TotalArea from '../components/TotalArea'
+import React from 'react';
+import HomeScreen from './screens/HomeScreen';
 
-const App = () => {
+function App() {
   return (
-    <div>
-      </Capital text= "here is the state capital">
-
-    </div>
+    <React.Fragment>
+      <HomeScreen />
+    </React.Fragment>
   );
 }
 
